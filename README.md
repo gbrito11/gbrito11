@@ -31,7 +31,6 @@
   <br><br>
   <img src="https://img.shields.io/badge/SPRING_BOOT-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring">
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
-  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
   <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05033" alt="Git">
 </p>
 
