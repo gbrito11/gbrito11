@@ -47,22 +47,9 @@
 
 <br>
 
-<h3 align="center">🐍 CONTRIBUTION ACTIVITY</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gbrito11/gbrito11/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
-</p>
+
 
 <br>
-
-<h3 align="center">📊 METRICS</h3>
-<p align="center">
-  <a href="https://github.com/gbrito11">
-    <img src="https://github-readme-stats.vercel.app/api?username=gbrito11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="Stats" height="150">
-  </a>
-  <a href="https://github.com/gbrito11">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrito11&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" alt="Langs" height="150">
-  </a>
-</p>
 
 <p align="center">▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</p>
 
