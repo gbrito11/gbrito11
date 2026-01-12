@@ -1,3 +1,9 @@
+<h3 align="center">🏆 ACHIEVEMENTS UNLOCKED</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gbrito11&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies">
+</p>
+
+
 <h1 align="center">
   <code>GUILHERME DE BRITO MOREIRA</code>
 </h1>
