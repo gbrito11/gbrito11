@@ -1,9 +1,3 @@
-<h3 align="center">🏆 ACHIEVEMENTS UNLOCKED</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gbrito11&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies">
-</p>
-
-
 <h1 align="center">
   <code>GUILHERME DE BRITO MOREIRA</code>
 </h1>
@@ -20,7 +14,7 @@
 
 <p align="center">
    Sou um desenvolvedor focado em <b>Full-Stack</b> e <b>Engenharia de Software</b>.
-   Valorizo código limpo, padrões de desenho (Design Patterns) e ética de trabalho.
+   Valorizo código limpo, padrões de desenho e ética de trabalho.
    Atualmente a explorar arquiteturas distribuídas e integração de IA.
 </p>
 
@@ -38,8 +32,45 @@
   <img src="https://img.shields.io/badge/SPRING_BOOT-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring">
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
   <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
-  <img src="
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05033" alt="Git">
+</p>
+
+<p align="center">▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</p>
+
+<h3 align="center">🛠️ PROJETOS EM DESTAQUE</h3>
+
+| Projeto | Stack | Descrição |
+| :--- | :--- | :--- |
+| **SmartKitchen** | `Java` `Gemini AI` | Gestão inteligente de despensa com IA geradora de receitas. |
+| **Chat Distribuído** | `C` `Linux` | Chat robusto via Named Pipes e chamadas de sistema. |
+| **Chess Engine** | `Java` `Patterns` | Xadrez com MVVM, Undo/Redo e persistência rigorosa. |
+
+<br>
+
+<h3 align="center">🐍 CONTRIBUTION ACTIVITY</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gbrito11/gbrito11/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
+</p>
+
+<br>
+
+<h3 align="center">📊 METRICS</h3>
+<p align="center">
+  <a href="https://github.com/gbrito11">
+    <img src="https://github-readme-stats.vercel.app/api?username=gbrito11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="Stats" height="150">
+  </a>
+  <a href="https://github.com/gbrito11">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrito11&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" alt="Langs" height="150">
+  </a>
+</p>
+
+<p align="center">▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</p>
 
 <p align="center">
-  <img src="https://github.com/gbrito11/gbrito11/blob/output/github-snake-dark.svg" alt="Snake Animation">
+  <a href="https://www.linkedin.com/in/guilherme-de-brito-moreira-10186b28a/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:guitorradinha2005@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
