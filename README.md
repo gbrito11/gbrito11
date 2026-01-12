@@ -39,3 +39,7 @@
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
   <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
   <img src="
+
+<p align="center">
+  <img src="https://github.com/gbrito11/gbrito11/blob/output/github-snake-dark.svg" alt="Snake Animation">
+</p>
