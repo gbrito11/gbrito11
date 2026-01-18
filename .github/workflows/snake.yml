@@ -1,21 +1,22 @@
 name: Generate Snake
 
 on:
-  # Corre automaticamente a cada 6 horas
   schedule:
     - cron: "0 */6 * * *"
-  # Permite correr manualmente quando quiseres
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # ESTA É A PARTE QUE FALTAVA PARA FUNCIONAR
+    permissions:
+      contents: write
+
     steps:
       - uses: Platane/snk@v3
         with:
-          # Nome do teu utilizador GitHub
           github_user_name: gbrito11
-          # Onde guarda o gif e o svg (aqui definimos a cor para dark mode)
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
