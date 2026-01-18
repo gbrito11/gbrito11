@@ -6,9 +6,7 @@
   🚀 Software Engineer Student @ ISEC
 </h3>
 
-<p align="center">
-  <b>"Transformar ideias em aplicações funcionais."</b>
-</p>
+
 
 <p align="center">▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</p>
 
@@ -20,7 +18,7 @@
 
 <br>
 
-<h3 align="center">⚡ ARSENAL TÉCNICO</h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -61,7 +59,3 @@
   </a>
 </p>
 
-<h3 align="center">🌆 SYSTEM ENVIRONMENT</h3>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/38/20/39/382039943486be2eb75355615712534e.gif" width="100%" alt="Pixel City">
-</p>
