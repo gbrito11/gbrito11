@@ -60,4 +60,7 @@
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-<img src="https://raw.githubusercontent.com/gbrito11/gbrito11/output/github-snake-dark.svg" alt="Snake Animation" width="100%">
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/38/20/39/382039943486be2eb75355615712534e.gif" width="100%" alt="Pixel City">
+</p>
